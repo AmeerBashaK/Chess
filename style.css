@@ -1,0 +1,15 @@
+#board{
+  display: flex;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  max-width: 800px;
+  max-height: 800px;
+  margin: 10vh auto;
+  justify-content: center;
+  align-items: center;
+}
+
+#cell{
+  width: 100px;
+  height: 100px;
+}
